@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Dataset (VERY IMPORTANT)
+dataset/
+
+# Model files (optional – recommended)
+*.h5
+
+# OS files
+.DS_Store
